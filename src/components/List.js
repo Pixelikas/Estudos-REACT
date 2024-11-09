@@ -10,8 +10,8 @@ function List(){
 
                 <ul>
 
-                    <Item marca="Ferrari"/>
-                    <Item marca="BMW"/>
+                    <Item />
+                    <Item marca="BMW" ano_lancamento={1990}/>
 
                 </ul>
 
