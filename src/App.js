@@ -9,7 +9,6 @@ function App() {
         
         <h1>Testando Evento</h1>
         <Evento numero="1"/>
-        <Evento numero="2"/>
         <Form />
 
     </div>
